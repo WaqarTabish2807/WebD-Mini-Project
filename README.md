@@ -1,4 +1,3 @@
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Day | Project | Live Demo |
+| --- | --- | --- |
+| 01 | Expanding Cards | Demo |
