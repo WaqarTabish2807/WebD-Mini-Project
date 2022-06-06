@@ -1,7 +1,7 @@
 | Day | Project | Live Demo |
 | --- | --- | --- |
 | 01 | [Expanding Cards](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day01_Expanding-Cards)| [Demo](https://day01-expanding-cards.netlify.app/) |
-| 02 | [Progress Steps](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day02_Progress-Steps) | Demo |
+| 02 | [Progress Steps](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day02_Progress-Steps) | [Demo](https://day02-progress-check.netlify.app/) |
 | 03 | Rotating Navigation | Demo |
 | 04 | Hidden Search Widget | Demo |
 | 05 | Blurry Loading | Demo |
