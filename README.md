@@ -1,7 +1,7 @@
 | Day | Project | Live Demo |
 | --- | --- | --- |
 | 01 | Expanding Cards | Demo |
-| 02 | Progress Steps
+| 02 | Progress Steps | Demo |
 | 03 | Rotating Navigation | Demo |
 | 04 | Hidden Search Widget | Demo |
 | 05 | Blurry Loading | Demo |
