@@ -14,7 +14,7 @@ body{
 #logo{
     display: inline-block;
     position: absolute;
-    left: 18px;
+    right: 18px;
     top: 18px;
 }
 
