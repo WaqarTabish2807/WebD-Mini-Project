@@ -11,6 +11,11 @@ body{
     margin: 0;
 }
 
+h2{
+    text-align: center;
+    height: 10px;
+}
+
 #logo{
     display: inline-block;
     position: absolute;
