@@ -14,7 +14,7 @@ h2{
     box-shadow: 16px 16px 10px #1d0e0c;
     border-radius: 20px;
   }
-  
+
 #logo{
     display: inline-block;
     position: absolute;
@@ -27,7 +27,8 @@ h2{
     margin: auto;
     width: 55px;
 }
-  .face {
+  
+.face {
     position: relative;
     height: 250px;
     width: 60px;
