@@ -1,3 +1,8 @@
+h2{
+    height: 2px;
+    text-align: center;
+}
+
 .container {
     position: absolute; 
     background: #2bb1b6;
@@ -10,6 +15,18 @@
     border-radius: 20px;
   }
   
+#logo{
+    display: inline-block;
+    position: absolute;
+    left: 18px;
+    top: 18px;
+}
+
+#logo img{
+    display: block;
+    margin: auto;
+    width: 55px;
+}
   .face {
     position: relative;
     height: 250px;
