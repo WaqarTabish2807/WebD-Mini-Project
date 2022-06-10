@@ -6,8 +6,8 @@
 | 04 | [Ferb-Cartoon](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day04_Ferb-using-css) | [Demo](https://day04-ferb-cartoon.netlify.app/) |
 | 05 | [Hidden Search Widget](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day05_Hidden-search) | [Demo](https://day05-hidden-search-widget.netlify.app/) |
 | 06 | [Blurry Loading](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day06_Blurry-loading) | [Demo](https://day06-blurry-loading.netlify.app/) |
-| 07 | Scroll Animation | Demo |
-| 08 | Split Landing Page | Demo |
+| 07 | [Split Landing Page](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day07-Split-landing-page) | [Demo](https://day07-split-landing-page.netlify.app) |
+| 08 | Scroll Animation | Demo |
 | 08 | Form Wave | Demo |
 | 09 | Sound Board | Demo |
 | 10 | Dad Jokes | Demo |
