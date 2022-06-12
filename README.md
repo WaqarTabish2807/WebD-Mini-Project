@@ -9,6 +9,7 @@
 | 07 | [Split Landing Page](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day07-Split-landing-page) | [Demo](https://day07-split-landing-page.netlify.app) |
 | 08 | [Phineas Cartoon](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day08-Phineas-using-css) | [Demo](https://day08-phineas-catoon.netlify.app/) |
 | 09 | [Scroll Animation](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day09-Scroll-animation) | [Demo](https://day09-scroll-animation.netlify.app/) |
+| 10 | [Wave Form](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day10_Wave-form) | [Demo](https://day10-neumorphism-wave-form.netlify.app/) |
 | 09 | Sound Board | Demo |
 | 10 | Dad Jokes | Demo |
 | 11 | Event Keycodes | Demo |
