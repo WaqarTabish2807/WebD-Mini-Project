@@ -11,7 +11,7 @@
 | 09 | [Scroll Animation](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day09-Scroll-animation) | [Demo](https://day09-scroll-animation.netlify.app/) |
 | 10 | [Wave Form](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day10_Wave-form) | [Demo](https://day10-neumorphism-wave-form.netlify.app/) |
 | 11 | [Sound Board](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day11_Sound-board) | [Demo](https://day11-sound-board.netlify.app/) |
-| 10 | Dad Jokes | Demo |
+| 12 | [Playlist carousel](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day12_Playlist-carousel) | [Demo](https://day10-playlist-carousel.netlify.app/) |
 | 11 | Event Keycodes | Demo |
 | 12 | Faq Collapse | Demo |
 | 13 | Random Choice Picker | Demo |
