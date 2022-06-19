@@ -14,7 +14,7 @@
 | 12 | [Playlist carousel](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day12_Playlist-carousel) | [Demo](https://day10-playlist-carousel.netlify.app/) |
 | 13 | [Dad Jokes](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day13_Dad-jokes) | [Demo](https://day13-dad-jokes.netlify.app/) |
 | 14 | [CSS Card](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day14_CSS-Card-UI_Design) | [Demo](https://day14-css-card.netlify.app/) |
-| 12 | [3D Foldable Cards](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day15_3D-Foldabale-cards) | [Demo](https://day15-3d-foldable-card.netlify.app) |
+| 15 | [3D Foldable Cards](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day15_3D-Foldabale-cards) | [Demo](https://day15-3d-foldable-card.netlify.app) |
 | 13 | Random Choice Picker | Demo |
 | 14 | Animated Navigation | Demo |
 | 15 | Incrementing Counter | Demo |
