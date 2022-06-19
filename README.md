@@ -11,7 +11,7 @@
 | 09 | [Scroll Animation](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day09-Scroll-animation) | [Demo](https://day09-scroll-animation.netlify.app/) |
 | 10 | [Wave Form](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day10_Wave-form) | [Demo](https://day10-neumorphism-wave-form.netlify.app/) |
 | 11 | [Sound Board](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day11_Sound-board) | [Demo](https://day11-sound-board.netlify.app/) |
-| 12 | [Playlist carousel](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day12_Playlist-carousel) | [Demo](https://day10-playlist-carousel.netlify.app/) |
+| 12 | [Playlist carousel](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day12_Playlist-carousel) | [Demo](https://day12-playlist-carousel.netlify.app/) |
 | 13 | [Dad Jokes](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day13_Dad-jokes) | [Demo](https://day13-dad-jokes.netlify.app/) |
 | 14 | [CSS Card](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day14_CSS-Card-UI_Design) | [Demo](https://day14-css-card.netlify.app/) |
 | 15 | [3D Foldable Cards](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day15_3D-Foldabale-cards) | [Demo](https://day15-3d-foldable-card.netlify.app) |
