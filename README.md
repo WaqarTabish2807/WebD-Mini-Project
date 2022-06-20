@@ -16,7 +16,7 @@
 | 14 | [CSS Card](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day14_CSS-Card-UI_Design) | [Demo](https://day14-css-card.netlify.app/) |
 | 15 | [3D Foldable Cards](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day15_3D-Foldabale-cards) | [Demo](https://day15-3d-foldable-card.netlify.app) |
 | 16 | [Rin Nohara](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day16_Rin-Nohara) | [Demo](https://day16-rin.netlify.app/) |
-| 14 | Animated Navigation | Demo |
+| 17 | [Virtual Keyboard](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day17_Virtual-keyboard) | [Demo](https://day17-virtual-keyboard.netlify.app/) |
 | 15 | Incrementing Counter | Demo |
 | 16 | Drink Water | Demo |
 | 17 | Movie App | Demo |
