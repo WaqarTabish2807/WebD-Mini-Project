@@ -1,0 +1,197 @@
+.header{
+    background:
+        
+        /* semi colon */
+        radial-gradient(40% 40% at 50% 50% , #000 48% , transparent 52%) 55.8% 35em/3em 3em,
+        radial-gradient(40% 40% at 50% 50% , #000 48% , transparent 52%) 55.8% 37em/3em 3em,
+        radial-gradient(40% 40% at 50% 50% ,  #6497b1 48% , transparent 52%) 55.4% 34.8em/7.5em 9.5em,
+        radial-gradient(40% 40% at 50% 50% , #000 48% , transparent 52%) 55.6% 35.15em/8em 9em,
+        
+        /* open book */
+        linear-gradient(90deg , #e3c9c9  50% , transparent 50%) 52.9% 32.25em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 53% 32em/10em 6em,
+        
+        linear-gradient(90deg , #ffef00 50% , transparent 50%) 53.1% 32.65em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 53.2% 32.45em/10em 6em,
+        
+        linear-gradient(90deg , #651e3e 50% , transparent 50%) 52.8% 33em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 52.7% 32.75em/10em 6em,
+        
+        linear-gradient(90deg , #000 50% , transparent 50%) 37.8% 31em/7em 4em,
+        linear-gradient(90deg , #fe8a71 50% , transparent 50%) 37.9% 30.25em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 38% 30em/10em 6em,
+        
+        linear-gradient(90deg , #ffef00 50% , transparent 50%) 38.1% 30.65em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 38.2% 30.45em/10em 6em,
+        
+        linear-gradient(90deg , #ffef00 50% , transparent 50%) 37.8% 31em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 37.7% 30.75em/10em 6em,
+        
+        linear-gradient(90deg , #000 50% , transparent 50%) 35.8% 33em/7em 4em,
+        linear-gradient(90deg , #651e3e 50% , transparent 50%) 35.9% 32.25em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 36% 32em/10em 6em,
+        
+        linear-gradient(90deg , #ffef00 50% , transparent 50%) 36.1% 32.65em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 36.2% 32.45em/10em 6em,
+        
+        linear-gradient(90deg , #ffef00 50% , transparent 50%) 35.8% 33em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 35.7% 32.75em/10em 6em,
+        
+        /* clock */
+        linear-gradient(90deg , #000 50% , transparent 50%) 35.6% 24.9em/1.5em 0.25em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 36% 24.9em/0.5em 1.4em,
+        
+        radial-gradient(40% 40% at 50% 50%, #000 47% , transparent 53%) 35.8% 24em/2em 2em,
+        
+        radial-gradient(40% 40% at 50% 50%, #ffdbac 49% , transparent 51%) 35.3% 21.5em/7em 7em,
+        radial-gradient(40% 40% at 50% 50%, #000 49% , transparent 51%) 35.2% 21em/8em 8em,
+        
+        radial-gradient(40% 40% at 50% 50%, #8d5524 49% , transparent 51%) 35.1% 20.5em/9em 9em,
+        radial-gradient(40% 40% at 50% 50%, #000 49% , transparent 51%) 35% 20em/10em 10em,
+        
+        linear-gradient(90deg , #000 50% , transparent 50%) 36.1% 22.5em/1.5em 3em,
+        
+        /* notebook */
+        linear-gradient(90deg ,#35a79c 50% , transparent 50%) 42.9% 32.25em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 43% 32em/10em 6em,
+        
+        linear-gradient(90deg , #ffef00 50% , transparent 50%) 43.2% 32.75em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 43.3% 32.5em/10em 6em,
+        
+        
+        linear-gradient(90deg , #f37736 50% , transparent 50%) 44.9% 30.25em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 45% 30em/10em 6em,
+        
+        linear-gradient(90deg , #ffef00 50% , transparent 50%) 45.2% 30.75em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 45.3% 30.5em/10em 6em,
+        
+        linear-gradient(90deg , #ffcc5c 50% , transparent 50%) 46.9% 32.25em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 47% 32em/10em 6em,
+        
+        linear-gradient(90deg , #ffef00 50% , transparent 50%) 47.2% 32.75em/9em 5.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 47.3% 32.5em/10em 6em,
+        /* camera */
+        radial-gradient(40% 40% at 50% 50% ,  #ff5588 48% , transparent 52%) 40.75% 26em/3em 3em,
+        radial-gradient(40% 40% at 50% 50% ,  #000 48% , transparent 52%) 40.7% 25.5em/4em 4em,
+        
+        radial-gradient(40% 40% at 50% 50% ,  #e3f0ff  48% , transparent 52%) 40.55% 24.5em/6em 6em,
+        radial-gradient(40% 40% at 50% 50% ,  #000 48% , transparent 52%) 40.5% 24em/7em 7em,
+        linear-gradient(90deg , #00a0b0 50% , transparent 50%) 41.9% 26.5em/9em 2em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 42% 26em/10em 3em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 42% 25.75em/1.5em 3em,
+        
+        /* moon */
+        radial-gradient(40% 40% at 50% 50% , #6497b1 48% , transparent 52%) 36.1% 8em/11.5em 11.5em,
+        radial-gradient(40% 40% at 50% 50% , #3d1e6d 48% , transparent 52%) 35% 8em/12em 12em,
+        
+        radial-gradient(40% 40% at 50% 50% ,  #8b9dc3  48% , transparent 52%) 57% 23em/11.5em 11.5em,
+        radial-gradient(40% 40% at 50% 50% , #000 48% , transparent 52%) 58% 23em/12em 12em,
+        
+        radial-gradient(40% 40% at 50% 50% ,  #dcedc1 48% , transparent 52%) 60.5% 15em/11.5em 11.5em,
+        radial-gradient(40% 40% at 50% 50% , #88d8b0 48% , transparent 52%) 61.5% 15em/12em 12em,
+        
+        radial-gradient(40% 40% at 50% 50% ,  #d11141 48% , transparent 52%) 55.5% 8em/11.5em 11.5em,
+        radial-gradient(40% 40% at 50% 50% , #000 48% , transparent 52%) 56.5% 8em/12em 12em,
+        
+        radial-gradient(40% 40% at 50% 50% ,  #bbbbbb 48% , transparent 52%) 29% 18em/11.5em 11.5em,
+        radial-gradient(40% 40% at 50% 50% , #ff6f69  48% , transparent 52%) 30% 18em/12em 12em,
+        
+        radial-gradient(40% 40% at 50% 50% ,  #cc2a36  48% , transparent 52%) 27% 28em/11.5em 11.5em,
+        radial-gradient(40% 40% at 50% 50% , #000 48% , transparent 52%) 28% 28em/12em 12em,
+        
+        /* music */
+        linear-gradient(90deg , #000 50% , transparent 50%) 55.6% 19em/5.25em 0.5em,
+        
+        radial-gradient(40% 40% at 50% 50% , #ffef00 48% , transparent 52%) 53.45% 20.75em/3em 2.5em,
+        radial-gradient(40% 40% at 50% 50% , #000 48% , transparent 52%) 53.5% 20.25em/4em 3.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 53.9% 19.3em/0.6em 3em,
+        
+        
+        radial-gradient(40% 40% at 50% 50% , #ffef00 48% , transparent 52%) 54.95% 20.25em/3em 2.5em,
+        radial-gradient(40% 40% at 50% 50% , #000 48% , transparent 52%) 55% 19.75em/4em 3.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 55.4% 19.2em/0.6em 2.7em,
+        
+        
+        /* coffee cup */
+    
+        radial-gradient(40% 40% at 50% 50% , #000 48% , transparent 52%) 52% 25.5em/12em 3em,
+        radial-gradient(40% 40% at top , #8874a3  49% , transparent 51%) 51.95% 27em/11em 16em,
+        radial-gradient(40% 40% at top , #000 49% , transparent 51%) 52% 27em/12em 17em,
+        radial-gradient(40% 40% at 50% 50% ,  #6497b1 48% , transparent 52%) 53.4% 25.95em/4em 5em,
+        radial-gradient(40% 40% at 50% 50% , #000 48% , transparent 52%) 53.5% 25.5em/5em 6em,
+        
+        /* snoopy */
+        
+        linear-gradient(90deg , #000 50% , transparent 50%) 48.3% 25.5em/0.25em 3.75em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 48.6% 25.5em/0.25em 3.75em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 48.9% 25.5em/0.25em 3.75em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 49.3% 26em/0.25em 2.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 48% 25.7em/0.25em 3em,
+        
+        linear-gradient(90deg , #000 50% , transparent 50%) 46.3% 25.5em/0.25em 3.75em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 46.6% 25.5em/0.25em 3.75em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 46.9% 25.5em/0.25em 3.75em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 47.1% 26em/0.25em 2.5em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 46% 25.7em/0.25em 3em,
+        
+        linear-gradient(90deg , #000 50% , transparent 50%) 46.4% 18.5em/2em 0.15em,
+        linear-gradient(90deg , #000 50% , transparent 50%) 45.5% 18.5em/2em 0.15em,
+        
+        radial-gradient(40% 40% at 50% 50% ,  #fff 49% , transparent 51%) 46.3% 22.25em/7.2em 10em,
+        radial-gradient(40% 40% at 50% 50% ,  #fff 49% , transparent 51%) 48.5% 22.25em/7.2em 10em,
+        
+        radial-gradient(40% 40% at 50% 50% ,  #000 49% , transparent 51%) 46.25% 22em/7.5em 10.5em,
+        radial-gradient(40% 40% at 50% 50% ,  #000 49% , transparent 51%) 48.5% 22em/7.5em 10.5em,
+        
+        
+        radial-gradient(40% 40% at 50% 50% ,  #fff 49% , transparent 51%) 46% 22em/13em 10em,
+        radial-gradient(40% 40% at 50% 50% ,  #fff 49% , transparent 51%) 45.1% 19em/9em 13em,
+        
+        radial-gradient(40% 40% at 50% 50% ,  #000 49% , transparent 51%) 46% 22.25em/13em 10em,
+        radial-gradient(40% 40% at 50% 50% ,  #000 49% , transparent 51%) 45% 18.75em/10em 13em,
+        
+        
+        radial-gradient(40% 40% at 50% 50% ,  #000 48% , transparent 52%) 47% 19em/3.5em 2.5em,
+        
+        radial-gradient(40% 40% at 50% 50% ,  #000 49% , transparent 51%) 43% 15em/6em 10em,
+        radial-gradient(40% 40% at 50% 50% ,  #fff 49% , transparent 51%) 42.9% 14.6em/7em 11em,
+        
+        
+        radial-gradient(40% 40% at 50% 50% ,  #fff 49% , transparent 51%) 45.49% 15.75em/13em 9.5em,
+        radial-gradient(40% 40% at 50% 50% ,  #000 49% , transparent 51%) 45.5% 16em/12em 9.5em,
+        
+        
+        
+        radial-gradient(40% 40% at 50% 50% ,  #fff 49% , transparent 51%) 45.5% 14em/18em 12.5em,
+        radial-gradient(40% 40% at 50% 50% ,  #fff 49% , transparent 51%) 44.5% 11.5em/13em 16em,
+        
+   
+        radial-gradient(40% 40% at 50% 50% ,  #ffdb58 49% , transparent 51%) 39.5% 11em/15em 20em,
+        radial-gradient(40% 40% at 50% 50% ,  #ffdb58 49% , transparent 51%) 39.8% 10.5em/13em 20em,
+        radial-gradient(40% 40% at 50% 50% ,  #000 49% , transparent 51%) 39.9% 10.5em/13em 20em,
+        
+
+        radial-gradient(40% 40% at 50% 50% ,  #ffdb58 49% , transparent 51%) 49% 7.5em/20em 25em,
+        linear-gradient(90deg ,  #ffdb58 50% , transparent 50%) 49% 15em/28em 10em,
+        
+        /* black border */
+        radial-gradient(40% 40% at 50% 50% ,  #000 49% , transparent 51%) 39.4% 11em/15em 20em,
+        radial-gradient(40% 40% at 50% 50% ,  #000 49% , transparent 51%) 49.1% 7.5em/20em 25em,
+        linear-gradient(90deg ,  #000 50% , transparent 50%) 49.1% 14.85em/28em 10.25em;
+    background-repeat:no-repeat;
+    background-color:#6497b1;
+    font-size:10px;
+    width:150em;
+    height:50em;
+    outline:2px solid #000;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+
+.container h2{
+    position: absolute;
+    top: 480px;
+    left: 550px;
+}
