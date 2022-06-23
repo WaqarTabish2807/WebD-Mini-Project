@@ -18,7 +18,7 @@
 | 16 | [Rin Nohara](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day16_Rin-Nohara) | [Demo](https://day16-rin.netlify.app/) |
 | 17 | [Virtual Keyboard](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day17_Virtual-keyboard) | [Demo](https://day17-virtual-keyboard.netlify.app/) |
 | 18 | [Event Key Codes](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day18_Event-key-codes) | [Demo](https://day18-event-key-codes.netlify.app/) |
-| 16 | Drink Water | Demo |
+| 16 | [Faq Collapse](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day19_Faq-collapse) | [Demo](https://day19-faq-collapse.netlify.app) |
 | 17 | Movie App | Demo |
 | 18 | Background Slider | Demo |
 | 19 | Theme Clock | Demo |
