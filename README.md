@@ -19,8 +19,4 @@
 | 17 | [Virtual Keyboard](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day17_Virtual-keyboard) | [Demo](https://day17-virtual-keyboard.netlify.app/) |
 | 18 | [Event Key Codes](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day18_Event-key-codes) | [Demo](https://day18-event-key-codes.netlify.app/) |
 | 19 | [Faq Collapse](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day19_Faq-collapse) | [Demo](https://day19-faq-collapse.netlify.app) |
-| 20 | Movie App | Demo |
-| 18 | Background Slider | Demo |
-| 19 | Theme Clock | Demo |
-| 20 | Button Ripple Effect | Demo |
-
+| 20 | [Random Choic Picker](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day20_Random-choice-picker) | [Demo](https://day20-random-choice-picker.netlify.app/) |
