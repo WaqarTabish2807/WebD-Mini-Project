@@ -20,4 +20,4 @@
 | 18 | [Event Key Codes](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day18_Event-key-codes) | [Demo](https://day18-event-key-codes.netlify.app/) |
 | 19 | [Faq Collapse](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day19_Faq-collapse) | [Demo](https://day19-faq-collapse.netlify.app) |
 | 20 | [Random Choice Picker](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day20_Random-choice-picker) | [Demo](https://day20-random-choice-picker.netlify.app/) |
-| 20 | [Incrementing-counter](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day21_Incrementing-counter) | [Demo](https://day21-increment-counter.netlify.app/) |
+| 21 | [Incrementing-counter](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day21_Incrementing-counter) | [Demo](https://day21-increment-counter.netlify.app/) |
