@@ -21,5 +21,5 @@
 | 19 | [Faq Collapse](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day19_Faq-collapse) | [Demo](https://day19-faq-collapse.netlify.app) |
 | 20 | [Random Choice Picker](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day20_Random-choice-picker) | [Demo](https://day20-random-choice-picker.netlify.app/) |
 | 21 | [Incrementing Counter](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day21_Incrementing-counter) | [Demo](https://day21-increment-counter.netlify.app/) |
-| 22 | [Drink Water](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day21_Incrementing-counter) | [Demo](https://day22-drink-water.netlify.app/) |
+| 22 | [Drink Water](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day22_Drink-Water) | [Demo](https://day22-drink-water.netlify.app/) |
 
