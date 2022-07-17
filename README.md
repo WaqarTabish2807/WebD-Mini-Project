@@ -26,5 +26,6 @@
 | 24 | [Background Slider](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day24_Background-slider) | [Demo](https://day24-background-slider.netlify.app/) |
 | 25 | [Drag N Drop](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day25_Drag-n-drop) | [Demo](https://day25-drag-n-drop.netlify.app/) |
 | 26 | [Whiteboard Lite](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day26_Drawing-app) | [Demo](https://day26-whiteboard-lite.netlify.app/) |
+| 27 | [Digital Clock](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day27_Digital-clock) | [Demo](https://day27-digital-clock.netlify.app/) |
 
 
