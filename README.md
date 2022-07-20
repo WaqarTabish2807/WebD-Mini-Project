@@ -29,6 +29,8 @@
 | 27 | [Digital Clock](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day27_Digital-clock) | [Demo](https://day27-digital-clock.netlify.app/) |
 | 28 | [Music App](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day28_Music-app) | [Demo](https://day28-music-app.netlify.app/) |
 | 29 | [Kinetic Loader](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day29_Kinetic-loader) | [Demo](https://day29-kinetic-loader.netlify.app/) |
+| 30 | [Preview Card](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day30_Preview-card) | [Demo](https://day30-preview-card.netlify.app/) |
+
 
 
 
