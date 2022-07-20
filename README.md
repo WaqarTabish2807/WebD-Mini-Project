@@ -27,7 +27,7 @@
 | 25 | [Drag N Drop](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day25_Drag-n-drop) | [Demo](https://day25-drag-n-drop.netlify.app/) |
 | 26 | [Whiteboard Lite](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day26_Drawing-app) | [Demo](https://day26-whiteboard-lite.netlify.app/) |
 | 27 | [Digital Clock](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day27_Digital-clock) | [Demo](https://day27-digital-clock.netlify.app/) |
-| 28 | [Music App]() | [Demo](https://day28-music-app.netlify.app/) |
+| 28 | [Music App](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day28_Music-app) | [Demo](https://day28-music-app.netlify.app/) |
 | 29 | [Kinetic Loader](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day29_Kinetic-loader) | [Demo](https://day29-kinetic-loader.netlify.app/) |
 
 
