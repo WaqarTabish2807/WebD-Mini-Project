@@ -32,7 +32,7 @@
 | 30 | [Preview Card](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day30_Preview-card) | [Demo](https://day30-preview-card.netlify.app/) |
 | 31 | [Double Vertical Slidebar](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day31_Double-vertical-slidebar) | [Demo](https://day31-double-vertical-slidebar.netlify.app/) |
 | 32 | [Toast Notification](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day32_Toast-notification) | [Demo](https://day32-toast-notification.netlify.app/) |
-| 33 | [Github Profiles](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day33_Github-profiles) | [Demo](https://day32-toast-notification.netlify.app/) |
+| 33 | [Github Profiles](https://github.com/WaqarTabish2807/WebD-Mini-Project/tree/main/Day33_Github-profiles) | [Demo](https://day33-github-profiles.netlify.app/) |
 
 
 
